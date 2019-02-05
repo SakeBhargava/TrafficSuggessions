@@ -1,0 +1,6 @@
+C:\Bhargav\ConsoleApp-TrafficSuggesions\ConsoleApp-TrafficSuggesions\bin\Debug\ConsoleApp-TrafficSuggesions.exe.config
+C:\Bhargav\ConsoleApp-TrafficSuggesions\ConsoleApp-TrafficSuggesions\bin\Debug\ConsoleApp-TrafficSuggesions.exe
+C:\Bhargav\ConsoleApp-TrafficSuggesions\ConsoleApp-TrafficSuggesions\bin\Debug\ConsoleApp-TrafficSuggesions.pdb
+C:\Bhargav\ConsoleApp-TrafficSuggesions\ConsoleApp-TrafficSuggesions\obj\Debug\ConsoleApp-TrafficSuggesions.csprojResolveAssemblyReference.cache
+C:\Bhargav\ConsoleApp-TrafficSuggesions\ConsoleApp-TrafficSuggesions\obj\Debug\ConsoleApp-TrafficSuggesions.exe
+C:\Bhargav\ConsoleApp-TrafficSuggesions\ConsoleApp-TrafficSuggesions\obj\Debug\ConsoleApp-TrafficSuggesions.pdb
